@@ -45,6 +45,17 @@ body {
     margin-bottom: 24px;
 }
 
+.card-price-per-amount {
+    font-size: 20px;
+    color: #666;
+    margin-bottom: 24px;
+}
+
+.card-price-per-period {
+    font-size: 16px;
+    color: #666;
+
+
 .card-content {
     margin-bottom: 32px;
 }
